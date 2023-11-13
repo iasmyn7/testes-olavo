@@ -2,6 +2,7 @@
 
 /*Defione a fonde dos elementod de dentro do body*/
 body {
+  font-family: 'Times New Roman', Times, serif;
   font-family: 'Roboto Mono', monospace;
   background: #14B6BA;
   width: 100%;
@@ -11,7 +12,7 @@ body {
 /*estiliza tosos os títulos h1*/
 h1 {
   text-align: center;
-  font-size: 14pt;
+  font-size: 10pt;
 }
 
 h2 {
