@@ -2,7 +2,8 @@
 
 /*Defione a fonde dos elementod de dentro do body*/
 body {
-  font-family: 'Franklin Gothic Medium', monospace;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
   background: #ba141400;
   width: 100%;
   color: black;
