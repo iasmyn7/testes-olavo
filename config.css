@@ -18,17 +18,17 @@
 }
 
 .box {
-    width: 70%;
+    width: 50%;
 
 }
 
 .box1 {
-    width: 35%;
+    width: 20%;
 
 }
 
 .box2 {
-    width: 40%;
+    width: 20%;
 }
 
 /*adiciona display flex em linha*/
