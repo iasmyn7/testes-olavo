@@ -5,7 +5,7 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #8BA9E8;
+    background: #002c8b;
     border-radius: 10px;
 }
 
@@ -13,12 +13,12 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #b92323;
+    background: #1b4219;
     border-radius: 10px;
 }
 
 .box {
-    width: 90%;
+    width: 70%;
 
 }
 
@@ -28,7 +28,7 @@
 }
 
 .box2 {
-    width: 50%;
+    width: 40%;
 }
 
 /*adiciona display flex em linha*/
